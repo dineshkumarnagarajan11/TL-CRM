@@ -1,0 +1,7 @@
+{
+  "name": "Tagleap AI CRM",
+  "description": "An enterprise-grade, AI-first CRM system for digital agencies. Features intelligent lead scoring, automated pipeline management, and generative AI agents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
